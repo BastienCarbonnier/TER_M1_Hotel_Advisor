@@ -1,0 +1,6 @@
+[submodule "WebService_TALN"]
+	path = WebService_TALN
+	url = https://github.com/BastienCarbonnier/WebService_TALN.git
+[submodule "WebService_Review"]
+	path = WebService_Reviews
+	url = https://github.com/BastienCarbonnier/WebService_Reviews.git
