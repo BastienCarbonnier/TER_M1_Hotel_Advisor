@@ -4,3 +4,6 @@
 [submodule "WebService_Review"]
 	path = WebService_Reviews
 	url = https://github.com/BastienCarbonnier/WebService_Reviews.git
+[submodule "Interface_Hotel_Advisor"]
+	path = Interface_Hotel_Advisor
+	url = https://github.com/BastienCarbonnier/Interface_Hotel_Advisor.git
